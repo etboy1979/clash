@@ -1,0 +1,12 @@
+payload:
+  # > starpluslogin
+  - DOMAIN,bam-sdk-configs.bamgrid.com
+  - DOMAIN,bam-sdk-configs.bamgrid.com
+  - DOMAIN,disney.my.sentry.io
+  - DOMAIN,appconfigs.disney-plus.net
+  - DOMAIN,sdk.iad-03.braze.com
+  - DOMAIN,star.api.edge.bamgrid.com
+  - DOMAIN,star.content.edge.bamgrid.com
+  - DOMAIN,prod-ripcut-delivery.disney-plus.net
+  - DOMAIN,star.connections.edge.bamgrid.com
+  - DOMAIN-SUFFIX,starplus.com
