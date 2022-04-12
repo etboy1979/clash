@@ -3,6 +3,7 @@ payload:
 DOMAIN-SUFFIX,akciatv.ru
 DOMAIN-SUFFIX,russtv.net
 DOMAIN-SUFFIX,zatikov.net
+DOMAIN-SUFFIX,vodofun.tv
 DOMAIN-KEYWORD,russtv
 IP-CIDR,194.59.155.0/24,no-resolve
 IP-CIDR,213.183.40.0/24,no-resolve
