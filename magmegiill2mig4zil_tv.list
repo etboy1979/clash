@@ -3,3 +3,5 @@ DOMAIN-SUFFIX,magmegiill2mig4zil.funtogether.xyz
 DOMAIN-SUFFIX,qualityoverquantity.site
 IP-CIDR,188.93.236.0/24,no-resolve
 IP-CIDR,3.72.92.0/24,no-resolve
+IP-CIDR,185.236.230.0/24,no-resolve
+#IP-CIDR,185.236.230.0/24,no-resolve
