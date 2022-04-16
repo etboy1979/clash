@@ -1,0 +1,4 @@
+# light_iptv
+DOMAIN-SUFFIX,pp.ru
+IP-CIDR,104.21.234.0/24,no-resolve
+IP-CIDR,104.21.235.0/24,no-resolve
