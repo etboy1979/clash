@@ -1,4 +1,7 @@
 # watcha
+DOMAIN-KEYWORD,watcha
 DOMAIN-SUFFIX,watcha.com
 DOMAIN-SUFFIX,api-mars.watcha.com
 DOMAIN-SUFFIX,ping-play.watcha.net
+DOMAIN-SUFFIX,an2-img.amz.wtchn.net
+DOMAIN-SUFFIX,an2-m1.amz.wtchn.net
