@@ -1,4 +1,7 @@
 # light_iptv
 DOMAIN-SUFFIX,pp.ru
+DOMAIN-SUFFIX,tv.lightiptv.cc
+DOMAIN-SUFFIX,lightiptv.cc
+DOMAIN-SUFFIX,ottbill.cc
 IP-CIDR,104.21.234.0/24,no-resolve
 IP-CIDR,104.21.235.0/24,no-resolve
