@@ -4,4 +4,4 @@ DOMAIN-SUFFIX,stan-19-efg5gvfagjfwazdt.z01.azurefd.net
 DOMAIN-KEYWORD,stan
 IP-CIDR,3.72.92.0/24,no-resolve
 IP-CIDR,3.10.190.0/24,no-resolve
-IP-CIDR,3.70.234.181.0/24,no-resolve
+IP-CIDR,3.70.234.0/24,no-resolve
