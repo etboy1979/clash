@@ -2,4 +2,4 @@ DOMAIN-KEYWORD,funtogether.xyz
 DOMAIN-SUFFIX,magmegiill2mig4zil.funtogether.xyz
 IP-CIDR,188.93.236.0/24,no-resolve
 IP-CIDR,185.236.230.0/24,no-resolve
-#IP-CIDR,185.236.230.0/24,no-resolve
+IP-CIDR,31.43.191.0/24,no-resolve
