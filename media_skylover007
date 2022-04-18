@@ -1,6 +1,6 @@
 [custom]
 ;不要随意改变关键字，否则会导致出错
-;ZHANG多媒体全量规则
+;多媒体全量规则
 
 
 ;直连规则
@@ -43,8 +43,7 @@ ruleset=🎥 peacock,https://raw.githubusercontent.com/etboy1979/clash/main/peac
 ruleset=⭐️ StarPluslogin,https://raw.githubusercontent.com/etboy1979/clash/main/starpluslogin.list
 ruleset=⭐️ StarPlusplay,https://raw.githubusercontent.com/etboy1979/clash/main/starplusplay.list
 ruleset=👪 DisneyPlus,https://raw.githubusercontent.com/flyhigherpi/merlinclash_clash_related/master/Rules/ACL4SSR/Clash/Ruleset/DisneyPlus.list
-ruleset=⚽ DAZN,https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/DAZN.list
-ruleset=⚽ DAZN,https://raw.githubusercontents.com/flyhigherpi/merlinclash_clash_related/master/Rules/ACL4SSR/Clash/Other/DAZN.list
+ruleset=⚽ DAZN,https://raw.githubusercontent.com/etboy1979/clash/main/DAZN.list
 ruleset=⚽ spotvnow,https://raw.githubusercontent.com/etboy1979/clash/main/spotvnow.list
 ruleset=🎬 ParamountPlus,https://raw.githubusercontent.com/flyhigherpi/merlinclash_clash_related/master/Rules/ACL4SSR/Clash/Other/Paramount.list
 ruleset=🎬 Prime,https://raw.githubusercontent.com/flyhigherpi/merlinclash_clash_related/master/Rules/ACL4SSR/Clash/Ruleset/Amazon.list
