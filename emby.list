@@ -4,5 +4,6 @@ DOMAIN-SUFFIX,play.charontv.com
 DOMAIN-SUFFIX,cu.poloemby.xyz
 DOMAIN-SUFFIX,sg.poloemby.xyz
 DOMAIN-SUFFIX,Sfa.ddns.me
-DOMAIN,usa2.jmsooo.com
+DOMAIN-SUFFIX,docs.charontv.com
+DOMAIN-SUFFIX,usa2.jmsooo.com
 PROCESS-NAME,usa
