@@ -1,3 +1,2 @@
 #tivi
 127.0.0.1 tivimate.b4a.io
-::1 tivimate.b4a.io
