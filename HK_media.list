@@ -21,3 +21,5 @@ DOMAIN-SUFFIX,videos-f.jwpsrv.com
 # HK_IPTV
 DOMAIN-SUFFIX,cdn.hklive.tv
 DOMAIN-SUFFIX,cdn.hkyoutv.com
+DOMAIN-SUFFIX,hk.tv.global.mi.com
+IP-CIDR,47.74.175.0/24,no-resolve
