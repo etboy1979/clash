@@ -1,3 +1,13 @@
 #EXTINF
 #EXTINF:-1 tvg-id="tvbnew"  group-title="hkm",tvbnew
+http://cdn.hklive.tv/xxxx/80/index.m3u8
+#EXTINF:-2
+http://cdn.hklive.tv/xxxx/81/index.m3u8
+#EXTINF:-3
+http://cdn.hklive.tv/xxxx/82/index.m3u8
+#EXTINF:-4
 http://cdn.hklive.tv/xxxx/83/index.m3u8
+#EXTINF:-5
+http://cdn.hklive.tv/xxxx/84/index.m3u8
+#EXTINF:-6
+http://cdn.hklive.tv/xxxx/85/index.m3u8
