@@ -23,5 +23,6 @@ DOMAIN-SUFFIX,cdn.hklive.tv
 DOMAIN-SUFFIX,cdn.hkyoutv.com
 DOMAIN-SUFFIX,hk.tv.global.mi.com
 DOMAIN-SUFFIX,hk.pool.ntp.org
+DOMAIN-SUFFIX,ye23.win
 IP-CIDR,162.159.200.0/24,no-resolve
 IP-CIDR,47.74.175.0/24,no-resolve
