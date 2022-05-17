@@ -1,13 +1,20 @@
-#EXTINF:-1 tvg-logo="" group-title="hk",tvb
+#EXTINF:-1 tvg-logo="" group-title="hk",TVB
 http://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="hk",tvbnew
-http://cdn.hklive.tv/xxxx/82/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="hk",tvbnew
+#EXTINF:-1 tvg-logo="" group-title="hk",J2
 http://cdn.hklive.tv/xxxx/82/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="hk",tvbnew
 http://cdn.hklive.tv/xxxx/83/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="hk",tvbnew
+#EXTINF:-1 tvg-logo="" group-title="hk",明珠
 http://cdn.hklive.tv/xxxx/84/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="hk",tvbnew
+#EXTINF:-1 tvg-logo="" group-title="hk",财经资讯
 http://cdn.hklive.tv/xxxx/85/index.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="hk",tvbnew
+http://cdn.hklive.tv/xxxx/86/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="hk",tvbnew
+http://cdn.hklive.tv/xxxx/87/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="hk",tvbnew
+http://cdn.hklive.tv/xxxx/88/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="hk",tvbnew
+http://cdn.hklive.tv/xxxx/89/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="hk",tvbnew
+http://cdn.hklive.tv/xxxx/90/index.m3u8
