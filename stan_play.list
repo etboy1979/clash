@@ -1,4 +1,5 @@
 #  stan_play
+DOMAIN,stan.video
 DOMAIN,aws.stan.video
 DOMAIN,awslive01.stan.video
 DOMAIN,awslive02.stan.video
