@@ -1,10 +1,8 @@
 #  Stan
 PROCESS-NAME,stan.android
 DOMAIN-KEYWORD,stan
-DOMAIN,aws.stan.video
 DOMAIN,streamcoimg-a.akamaihd.net
 DOMAIN,akamaized.net
-DOMAIN,awslive01.stan.video
 DOMAIN-SUFFIX,stan.com.au
-DOMAIN-SUFFIX,stan.video
+
 
