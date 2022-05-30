@@ -3,3 +3,5 @@ DOMAIN,aws.stan.video
 DOMAIN,awslive01.stan.video
 DOMAIN,awslive02.stan.video
 DOMAIN-SUFFIX,stan.video
+DOMAIN-SUFFIX,801-stan.akamaized.net
+DOMAIN,801-stan.akamaized.net
