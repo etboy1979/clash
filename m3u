@@ -4,7 +4,7 @@
 http://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="hk",J2
 http://cdn.hklive.tv/xxxx/82/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="hk",tvbnew
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="hk",tvbnews
 http://cdn.hklive.tv/xxxx/83/index.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="hk",明珠
 http://cdn.hklive.tv/xxxx/84/index.m3u8
@@ -12,6 +12,30 @@ http://cdn.hklive.tv/xxxx/84/index.m3u8
 http://cdn.hklive.tv/xxxx/85/index.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="hk",viuTV
 http://cdn.hklive.tv/xxxx/99/index.m3u8
+
+#EXTINF:-1,翡翠台
+http://210.6.197.248:8000/bysid/1
+#EXTINF:-1,J2
+http://cms750.synology.me:8001/bysid/82
+#EXTINF:-1,TVB明珠台
+http://cms750.synology.me:8001/bysid/2
+http://liuy.usa7.20212021.ga/ns.php?id=76
+#EXTINF:-1,无线新闻台
+http://cms750.synology.me:8001/bysid/83
+#EXTINF:-1,NOW新闻台
+http://livetv.dnsfor.me/channel.4.m3u8
+#EXTINF:-1,NOW直播台
+http://livetv.dnsfor.me/channel.3.m3u8
+#EXTINF:-1,RTHK31
+http://livetv.dnsfor.me/channel.1.m3u8
+#EXTINF:-1,RTHK32
+http://livetv.dnsfor.me/channel.2.m3u8
+#EXTINF:-1,ViU TV
+http://210.6.197.248:8000/bysid/99
+#EXTINF:-1,ViU TV 6
+http://210.6.197.248:8000/bysid/96
+
+
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="港澳台",Animal Planet
 https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="港澳台",Animal Planet
