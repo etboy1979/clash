@@ -14,6 +14,12 @@
 #http://cdn.hklive.tv/xxxx/99/index.m3u8
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
+mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f.ts,BLANK-播放器①①①
+http://120.84.96.33:808/hls/25/index.m3u8
+http://120.84.96.25:808/hls/25/index.m3u8
+http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f
+http://liuy.usa7.20212021.ga/ns.php?id=78
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GyM0ORZ.png" group-title="港澳台",TVBJ1
@@ -33,7 +39,15 @@ http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
 
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳台",无线新闻
 https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
-
+http://ye23.win/iptv/tvb.php?id=1
+https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
+https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+http://ye23.win/iptv/tvb.php?id=5
+http://ye23.win/iptv/tvb.php?id=4
+http://ye23.win/iptv/tvb.php?id=1
+http://ye23.win/iptv/tvb.php?id=5
+http://ye23.win:80/iptv/tvb.php?id=5
+http://radius.8866.org:880/hls/82/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港澳台",无线财经
 http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
