@@ -14,6 +14,8 @@
 #http://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东体育",广东体育
 http://120.84.96.33:808/hls/22/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东体育",广东体育
+http://61.143.45.150:9901/tsfile/live/1001_1.m3u8
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠台
 mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f.ts
