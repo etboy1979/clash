@@ -1,4 +1,6 @@
 # tvb
+PROCESS-NAME,hkdtmb.com
+DOMAIN-KEYWORD,hkdtmb
 DOMAIN,bcbolt446c5271-a.akamaihd.net
 DOMAIN,edge.api.brightcove.com
 DOMAIN-SUFFIX,bigbigchannel.com.hk
@@ -20,6 +22,7 @@ DOMAIN-SUFFIX,tvbweekly.com
 DOMAIN-SUFFIX,tvmedia.net.au
 DOMAIN-SUFFIX,videos-f.jwpsrv.com
 DOMAIN-SUFFIX,cdn.hklive.tv
+DOMAIN-SUFFIX,hkdtmb.com
 # HK_IPTV
 DOMAIN-SUFFIX,cdn.hklive.tv
 DOMAIN-SUFFIX,cdn.hkyoutv.com
