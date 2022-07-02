@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,tvbusa.com
 DOMAIN-SUFFIX,tvbweekly.com
 DOMAIN-SUFFIX,tvmedia.net.au
 DOMAIN-SUFFIX,videos-f.jwpsrv.com
+DOMAIN-SUFFIX,cdn.hklive.tv
 # HK_IPTV
 DOMAIN-SUFFIX,cdn.hklive.tv
 DOMAIN-SUFFIX,cdn.hkyoutv.com
@@ -26,6 +27,7 @@ DOMAIN-SUFFIX,hk.tv.global.mi.com
 DOMAIN-SUFFIX,radius.8866.org
 DOMAIN-SUFFIX,hk.pool.ntp.org
 DOMAIN-SUFFIX,live.hkanime.com.hk
+DOMAIN-SUFFIX,cdn.hklive.tv
 DOMAIN-SUFFIX,ye23.win
 IP-CIDR,162.159.200.0/24,no-resolve
 IP-CIDR,47.74.175.0/24,no-resolve
