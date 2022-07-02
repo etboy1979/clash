@@ -1,3 +1,51 @@
+#EXTM3U x-tvg-url="https://live.hkanime.com.hk/epg"
+#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://live.hkanime.com.hk/png_logo/31.png" group-title="[RTHK] 香港電台",港台電視31
+https://cdn.hklive.tv/hls/31/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://live.hkanime.com.hk/png_logo/32.png" group-title="[RTHK] 香港電台",港台電視32
+https://cdn.hklive.tv/hls/32/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://live.hkanime.com.hk/png_logo/33.png" group-title="[RTHK] 香港電台",港台電視33
+https://cdn.hklive.tv/hls/33/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="港台電視34" tvg-logo="https://live.hkanime.com.hk/png_logo/34.png" group-title="[RTHK] 香港電台",港台電視34
+https://cdn.hklive.tv/hls/34/index.m3u8
+#EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://live.hkanime.com.hk/png_logo/76.png" group-title="[Fan] 奇妙電視",香港國際財經台
+https://cdn.hklive.tv/hls/76/index.m3u8
+#EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="https://live.hkanime.com.hk/png_logo/77.png" group-title="[Fan] 奇妙電視",香港開電視
+https://cdn.hklive.tv/hls/77/index.m3u8
+#EXTINF:-1 tvg-id="78" tvg-name="奇妙資訊台" tvg-logo="https://live.hkanime.com.hk/png_logo/78.png" group-title="[Fan] 奇妙電視",奇妙資訊台
+#EXTINF:-1 tvg-id="108" tvg-name="icable財經資訊台" tvg-logo="https://live.hkanime.com.hk/png_logo/108.png" group-title="[Fan] 奇妙電視",icable財經資訊台
+https://cdn.hklive.tv/hls/108/index.m3u8
+#EXTINF:-1 tvg-id="109" tvg-name="icable新聞台" tvg-logo="https://live.hkanime.com.hk/png_logo/109.png" group-title="[Fan] 奇妙電視",icable新聞台
+https://cdn.hklive.tv/hls/109/index.m3u8
+#EXTINF:-1 tvg-id="110" tvg-name="icable直播台" tvg-logo="https://live.hkanime.com.hk/png_logo/110.png" group-title="[Fan] 奇妙電視",icable直播台
+https://cdn.hklive.tv/hls/110/index.m3u8
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="[TVB] 電視廣播",翡翠台
+https://cdn.hklive.tv/hls/81/index.m3u8
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台 (中英字幕)" tvg-logo="https://live.hkanime.com.hk/png_logo/81.png" group-title="[TVB] 電視廣播",翡翠台 (中英字幕)
+https://cdn.hklive.tv/hls/81b/index.m3u8
+#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://live.hkanime.com.hk/png_logo/82.png" group-title="[TVB] 電視廣播",J2台
+https://cdn.hklive.tv/hls/82/index.m3u8
+#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://live.hkanime.com.hk/png_logo/83.png" group-title="[TVB] 電視廣播",無綫新聞台
+https://cdn.hklive.tv/hls/83/index.m3u8
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://live.hkanime.com.hk/png_logo/84.png" group-title="[TVB] 電視廣播",明珠台
+https://cdn.hklive.tv/hls/84/index.m3u8
+#EXTINF:-1 tvg-id="84" tvg-name="明珠台 (粵語聲道)" tvg-logo="https://live.hkanime.com.hk/png_logo/84.png" group-title="[TVB] 電視廣播",明珠台 (粵語聲道)
+https://cdn.hklive.tv/hls/84b/index.m3u8
+#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://live.hkanime.com.hk/png_logo/85.png" group-title="[TVB] 電視廣播",無綫財經·資訊台
+https://cdn.hklive.tv/hls/85/index.m3u8
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/99.png" group-title="[Viu] 香港電視娛樂",ViuTV
+https://cdn.hklive.tv/hls/99/index.m3u8
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/96.png" group-title="[Viu] 香港電視娛樂",ViuTV Six
+https://cdn.hklive.tv/hls/96/index.m3u8
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://live.hkanime.com.hk/png_logo/96.png" group-title="[Viu] 香港電視娛樂",ViuTV Six （第二聲度）
+https://cdn.hklive.tv/hls/96b/index.m3u8
+#EXTINF:-1 tvg-id="331" tvg-name="Now直播台" tvg-logo="https://live.hkanime.com.hk/png_logo/331.png" group-title="[Viu] 香港電視娛樂",Now直播台
+https://cdn.hklive.tv/hls/331/index.m3u8
+#EXTINF:-1 tvg-id="332" tvg-name="Now新聞台" tvg-logo="https://live.hkanime.com.hk/png_logo/332.png" group-title="[Viu] 香港電視娛樂",Now新聞台
+https://cdn.hklive.tv/hls/332/index.m3u8
+#EXTINF:-1 tvg-id="333" tvg-name="Now財經台" tvg-logo="https://live.hkanime.com.hk/png_logo/333.png" group-title="[Viu] 香港電視娛樂",Now財經台
+https://cdn.hklive.tv/hls/333/index.m3u8
+#EXTINF:-1 tvg-id="630" tvg-name="Now Sports Prime" tvg-logo="https://live.hkanime.com.hk/png_logo/630.png" group-title="[Viu] 香港電視娛樂",Now Now Sports Prime
+https://cdn.hklive.tv/hls/630/index.m3u8
 #EXTM3U
 #EXTINF:-1,凤凰中文HD8M
 http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=OTT2728520220517134732169280
