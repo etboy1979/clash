@@ -4,6 +4,8 @@
 http://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="hk",TVB
 https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="hk",TVB
+http://radius.8866.org:880/hls/80/index.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="hk",J2
 http://cdn.hklive.tv/xxxx/82/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="hk",tvbnews
