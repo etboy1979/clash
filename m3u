@@ -1,17 +1,19 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="hk",TVB
-http://cdn.hklive.tv/xxxx/81/index.m3u8
+
+https://cdn.hklive.tv/xxxx/81/index.m3u8
+#http://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="hk",J2
-http://cdn.hklive.tv/xxxx/82/index.m3u8
+https://cdn.hklive.tv/xxxx/82/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="hk",tvbnews
-http://cdn.hklive.tv/xxxx/83/index.m3u8
+https://cdn.hklive.tv/xxxx/83/index.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="hk",明珠
-http://cdn.hklive.tv/xxxx/84/index.m3u8
+https://cdn.hklive.tv/xxxx/84/index.m3u8
 #EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="hk",财经资讯
-http://cdn.hklive.tv/xxxx/85/index.m3u8
+https://cdn.hklive.tv/xxxx/85/index.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="hk",viuTV
-http://cdn.hklive.tv/xxxx/99/index.m3u8
+https://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东体育",广东体育
 http://120.84.96.33:808/hls/22/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东体育",广东体育
