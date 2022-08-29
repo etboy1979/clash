@@ -3,6 +3,10 @@ DOMAIN-SUFFIX,stan-128-1-b4gkb7dpakf2d3b9.z01.azurefd.net
 DOMAIN-SUFFIX,stan-19-efg5gvfagjfwazdt.z01.azurefd.net
 DOMAIN-SUFFIX,jcxbdcwckneeb.be
 DOMAIN-SUFFIX,iptv.bestchoicetv.vip
+DOMAIN-SUFFIX,vipaf.one
+IP-CIDR,89.45.12.0/24,no-resolve
+IP-CIDR,185.191.124.0/24,no-resolve
+IP-CIDR,185.191.126.0/24,no-resolve
 IP-CIDR,185.228.251.0/24,no-resolve
 IP-CIDR,3.10.190.0/24,no-resolve
 IP-CIDR,3.70.234.0/24,no-resolve
