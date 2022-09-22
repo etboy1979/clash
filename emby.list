@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,tagemby.embylianmeng.com
 DOMAIN-SUFFIX,register.embylianmeng.com
 DOMAIN-SUFFIX,embylianmeng.com
+DOMAIN-SUFFIX,tec.tagemby.com
 DOMAIN-KEYWORD,embylianmeng
 IP-CIDR,31.25.0.0/12,no-resolve
 IP-CIDR,31.25.89.0/24,no-resolve
