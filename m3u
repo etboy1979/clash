@@ -1,8 +1,14 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV",cctv-4k
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV",cctv-4k-25
 http://open.live-web.timetv.cn/live03/cctv4k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="hk",TVB4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV",cctv-4k
+http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV",cctv-16-1
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV",cctv-16-2
+http://39.135.138.58:18890/PLTV/88888888/224/3221226233/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="hk",TVB
 https://cdn.hklive.tv/xxxx/81/index.m3u8
 #http://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="hk",J2
