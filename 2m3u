@@ -1,3 +1,14 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://i.imgur.com/XQnIwzp.png",翡翠台
+http://198.16.64.10:8278/jade98_twn/playlist.m3u8?tid=ma8281a00c095&ct=19277&tsum=e9c78b611400e0489b8366db66da9434
+#EXTINF:-1 tvg-name="viu" tvg-logo="https://i.imgur.com/XQnIwzp.png",viu
+http://198.16.64.10:8278/viu1_twn/playlist.m3u8?tid=ma8281a00c095&ct=19277&tsum=003a7f1543fb17cfa1838d0c049b8468
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="",ViuTV
+http://198.16.64.10:8278/viu_twn/playlist.m3u8?tid=ma8281a00c095&ct=19277&tsum=bd265b4f247a766e78956f5c7df8a0b9
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="",天映频道
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+#EXTINF:-1 tvg-name="自然4k" tvg-logo="",自然4k
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTM3U x-tvg-url="https://live.hkanime.com.hk/epg"
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://live.hkanime.com.hk/png_logo/31.png" group-title="[RTHK] 香港電台",港台電視31
 https://cdn.hklive.tv/hls/31/index.m3u8
