@@ -1,6 +1,10 @@
 #EXTM3U x-tvg-url="https://live.hkanime.com.hk/epg"
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://live.hkanime.com.hk/png_logo/31.png" group-title="[RTHK] 香港電台",港台電視31
 https://cdn.hklive.tv/hls/31/index.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://live.hkanime.com.hk/png_logo/31.png" group-title="[RTHK] 香港電台",港台電視31
+https://cdn.hklive.tv/hls/31b/index.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://live.hkanime.com.hk/png_logo/32.png" group-title="[RTHK] 香港電台",港台電視32
+https://cdn.hklive.tv/hls/32b/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://live.hkanime.com.hk/png_logo/32.png" group-title="[RTHK] 香港電台",港台電視32
 https://cdn.hklive.tv/hls/32/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://live.hkanime.com.hk/png_logo/33.png" group-title="[RTHK] 香港電台",港台電視33
