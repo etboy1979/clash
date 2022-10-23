@@ -1,5 +1,6 @@
 # DMTN
 DOMAIN-SUFFIX,dmtn.tv
+DOMAIN-SUFFIX,mydmtn.tv
 IP-CIDR,45.148.0.0/12,no-resolve
 IP-CIDR,217.74.0.0/12,no-resolve
 IP-CIDR,102.165.0.0/12,no-resolve
