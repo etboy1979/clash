@@ -33,6 +33,8 @@ DOMAIN-SUFFIX,radius.8866.org
 DOMAIN-SUFFIX,hk.pool.ntp.org
 DOMAIN-SUFFIX,live.hkanime.com.hk
 DOMAIN-SUFFIX,cdn.hklive.tv
+DOMAIN-SUFFIX,hklive.tv
+DOMAIN-SUFFIX,error.hklive.tv
 DOMAIN-SUFFIX,ye23.win
 IP-CIDR,162.159.200.0/24,no-resolve
 IP-CIDR,47.74.175.0/24,no-resolve
