@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV",cctv-4k-25
 http://open.live-web.timetv.cn/live03/cctv4k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV",cctv-4k-50
+https://epg.pm/stream/8a41b3c81e4bd195d19e408db3a3ca7b711a7a71c77932ddb0ca22a002d3f604.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV",cctv-4k
 http://111.32.169.223/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV",cctv-16-1
