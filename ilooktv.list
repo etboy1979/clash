@@ -18,3 +18,9 @@ IP-CIDR,77.72.23.0/24,no-resolve
 IP-CIDR,92.119.88.0/24,no-resolve
 IP-CIDR,92.119.89.0/24,no-resolve
 IP-CIDR,93.189.56.0/24,no-resolve
+
+# > tv.team
+DOMAIN-SUFFIX,troya.tv
+DOMAIN-SUFFIX,tv.team
+IP-CIDR,129.151.109.148/32,no-resolve
+DOMAIN-SUFFIX,hinet.net
