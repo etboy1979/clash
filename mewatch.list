@@ -1,0 +1,10 @@
+# > Streaming Singapore
+PROCESS-NAME,sg.mediacorp.android
+DOMAIN-KEYWORD,mewatch
+DOMAIN-KEYWORD,toggle
+DOMAIN-SUFFIX,toggle.sg
+DOMAIN-SUFFIX,mewatch.sg
+DOMAIN-SUFFIX,kaltura.com
+DOMAIN,tglmp01.akamaized.net
+DOMAIN,tglmp02.akamaized.net
+DOMAIN,tglmp03.akamaized.net
