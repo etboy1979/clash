@@ -4,5 +4,12 @@ DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,adcdn.holmesmind.com
 DOMAIN,hinet.net
 DOMAIN-KEYWORD,hinet.net
+DOMAIN,weblivead-hamivideo.cdn.hinet.net
+DOMAIN,webvodad-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,apl-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,hamivideo.hinet.net
+DOMAIN-SUFFIX,mobilelive-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,scc.ott.hinet.net
+DOMAIN-SUFFIX,static-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,weblive-hamivideo.cdn.hinet.net
 
-adcdn.holmesmind.com
