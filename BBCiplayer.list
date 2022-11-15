@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,bbci.co
 DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-SUFFIX,bidi.net.uk
 DOMAIN-SUFFIX,live.bbctvapps.co.uk
+IP-CIDR,212.58.0.0/12,no-resolve
 # 内容：BBC
 # 数量：3条
 DOMAIN-KEYWORD,uk-live
