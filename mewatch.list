@@ -2,6 +2,7 @@
 PROCESS-NAME,sg.mediacorp.android
 DOMAIN-KEYWORD,mewatch
 DOMAIN-KEYWORD,toggle
+DOMAIN-SUFFIX,mewatch.sg
 DOMAIN-SUFFIX,toggle.sg
 DOMAIN-SUFFIX,mewatch.sg
 DOMAIN-SUFFIX,kaltura.com
