@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,static-hamivideo.cdn.hinet.net
 DOMAIN-SUFFIX,weblive-hamivideo.cdn.hinet.net
 DOMAIN-SUFFIX,olympiclive-hamivideo.cdn.hinet.net
 DOMAIN-SUFFIX,fp.holmesmind.com
+IP-CIDR,202.39.0.0/12,no-resolve
