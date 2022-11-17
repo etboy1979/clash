@@ -38,3 +38,18 @@ DOMAIN-SUFFIX,error.hklive.tv
 DOMAIN-SUFFIX,ye23.win
 IP-CIDR,162.159.200.0/24,no-resolve
 IP-CIDR,47.74.175.0/24,no-resolve
+
+# NAME: PikPak
+# AUTHOR: tugepaopao
+# REPO: https://github.com/tugepaopao/Image-Storage
+# UPDATED: 2022-11-03 17:11:25
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 6
+# TOTAL: 7
+DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
+DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
+DOMAIN-SUFFIX,hub5pn.wap.sandai.net
+DOMAIN-SUFFIX,hub5pnc.sandai.net
+DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
+DOMAIN-SUFFIX,hubciddata.sandai.net
+DOMAIN-KEYWORD,mypikpak
