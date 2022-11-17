@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,youbora.com
 DOMAIN-SUFFIX,youboranqs01.com
 DOMAIN-SUFFIX,nowestatic.com
+IP-CIDR,172.104.0.0/24,no-resolve
 DOMAIN-KEYWORD,nowe
 DOMAIN,bcbolt446c5271-a.akamaihd.net
 DOMAIN,edge.api.brightcove.com
