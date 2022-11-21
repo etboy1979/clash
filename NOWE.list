@@ -37,6 +37,9 @@ DOMAIN-SUFFIX,hkbn.xtunnel.club
 IP-CIDR,5.28.195.163/32,no-resolve
 IP-CIDR,5.28.0.0/24,no-resolve
 IP-CIDR,5.28.195.0/12,no-resolve
+IP-CIDR,45.118.132.58/32,no-resolve
+IP-CIDR,45.118.0.0/24,no-resolve
+IP-CIDR,45.118.132.0/12,no-resolve
 ## > viu
 USER-AGENT,Viu*
 USER-AGENT,ViuTV*
