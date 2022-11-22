@@ -12,6 +12,8 @@ DOMAIN-SUFFIX,youboranqs01.com
 DOMAIN-SUFFIX,nowestatic.com
 DOMAIN-SUFFIX,pccw-live-cdn-01.akamaized.net
 #IP-CIDR,172.104.0.0/24,no-resolve
+IP-CIDR,23.61.252.82/32,no-resolve
+IP-CIDR,23.61.252.0/12,no-resolve
 IP-CIDR,45.118.0.0/24,no-resolve
 IP-CIDR,23.61.0.0/24,no-resolve
 DOMAIN-KEYWORD,nowe
