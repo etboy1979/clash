@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,nowestatic.com
 DOMAIN-SUFFIX,pccw-live-cdn-01.akamaized.net
 #IP-CIDR,172.104.0.0/24,no-resolve
 IP-CIDR,45.118.0.0/24,no-resolve
+IP-CIDR,23.61.0.0/24,no-resolve
 DOMAIN-KEYWORD,nowe
 DOMAIN,bcbolt446c5271-a.akamaihd.net
 DOMAIN,edge.api.brightcove.com
