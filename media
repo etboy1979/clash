@@ -92,6 +92,7 @@ ruleset=🔍 谷歌服务,https://raw.githubusercontent.com/flyhigherpi/merlincl
 ruleset=🔍 谷歌服务,https://raw.githubusercontent.com/flyhigherpi/merlinclash_clash_related/master/Rules/ACL4SSR/Clash/Ruleset/GoogleCN.list
 ruleset=🇺🇳 国外网站,https://raw.githubusercontent.com/flyhigherpi/merlinclash_clash_related/master/Rules/ACL4SSR/Clash/Other/Proxy.list
 ruleset=🇺🇳 国外网站,https://raw.githubusercontent.com/flyhigherpi/merlinclash_clash_related/master/Rules/ACL4SSR/Clash/ProxyGFWlist.list
+ruleset=🧩 ChatGpt,https://raw.githubusercontent.com/etboy1979/clash/main/chatgpt.list
 ruleset=🧩 ChatGpt,https://raw.githubusercontent.com/flyhigherpi/merlinclash_clash_related/master/Rules/ACL4SSR/Clash/Other/ChatGPT.list
 ruleset=🇨🇳 国内网站,https://raw.githubusercontent.com/flyhigherpi/merlinclash_clash_related/master/Rules/ACL4SSR/Clash/ChinaMedia.list
 ruleset=🇨🇳 国内网站,https://raw.githubusercontent.com/flyhigherpi/merlinclash_clash_related/master/Rules/ACL4SSR/Clash/ChinaDomain.list
