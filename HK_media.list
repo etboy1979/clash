@@ -34,6 +34,8 @@ DOMAIN-SUFFIX,hk.pool.ntp.org
 DOMAIN-SUFFIX,live.hkanime.com.hk
 DOMAIN-SUFFIX,cdn.hklive.tv
 DOMAIN-SUFFIX,hklive.tv
+DOMAIN-SUFFIX,hkdtmb.com
+DOMAIN-KEYWORD,hkdtmb
 DOMAIN-SUFFIX,error.hklive.tv
 DOMAIN-SUFFIX,ye23.win
 IP-CIDR,162.159.200.0/24,no-resolve
