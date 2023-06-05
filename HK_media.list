@@ -32,12 +32,14 @@ DOMAIN-SUFFIX,hk.tv.global.mi.com
 DOMAIN-SUFFIX,radius.8866.org
 DOMAIN-SUFFIX,hk.pool.ntp.org
 DOMAIN-SUFFIX,live.hkanime.com.hk
+DOMAIN-SUFFIX,stream-cdn.hkanime.live
 DOMAIN-SUFFIX,cdn.hklive.tv
 DOMAIN-SUFFIX,hklive.tv
 DOMAIN-SUFFIX,hkdtmb.com
 DOMAIN-SUFFIX,umami.hkanimal.com
 DOMAIN-KEYWORD,hkanimal
 DOMAIN-KEYWORD,hkdtmb
+DOMAIN-KEYWORD,hkanime
 DOMAIN-SUFFIX,error.hklive.tv
 DOMAIN-SUFFIX,ye23.win
 IP-CIDR,162.159.200.0/24,no-resolve
