@@ -52,7 +52,10 @@ IP-CIDR,47.74.175.0/24,no-resolve
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 6
 # TOTAL: 7
+PROCESS-NAME,mypikpak.com
+DOMAIN-KEYWORD,mypikpak
 DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
+DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
 DOMAIN-SUFFIX,hub5pn.wap.sandai.net
 DOMAIN-SUFFIX,hub5pnc.sandai.net
