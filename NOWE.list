@@ -43,7 +43,6 @@ IP-CIDR,5.28.0.0/24,no-resolve
 IP-CIDR,5.28.195.0/12,no-resolve
 IP-CIDR,45.118.132.58/32,no-resolve
 IP-CIDR,45.118.0.0/24,no-resolve
-IP-CIDR,47.252.0.0/15,no-resolve
 IP-CIDR,45.118.132.0/12,no-resolve
 ## > viu
 USER-AGENT,Viu*
@@ -63,4 +62,3 @@ DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,viu.now.com
 DOMAIN-SUFFIX,viu.tv
-DOMAIN-SUFFIX,keeflys.com
