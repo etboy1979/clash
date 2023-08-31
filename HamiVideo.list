@@ -10,3 +10,11 @@ DOMAIN,hls-hichannel.cdn.hinet.net
 DOMAIN-SUFFIX,hamivideo.hinet.net
 DOMAIN-SUFFIX,ott.hinet.net
 DOMAIN-KEYWORD,hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,apl-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,hamivideo.hinet.net
+DOMAIN-SUFFIX,mobilelive-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,scc.ott.hinet.net
+DOMAIN-SUFFIX,static-hamivideo.cdn.hinet.net
+#DOMAIN-SUFFIX,weblive-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,weblivead-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,webvodad-hamivideo.cdn.hinet.net
