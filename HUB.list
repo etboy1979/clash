@@ -12,3 +12,4 @@ DOMAIN-KEYWORD,astro.com
 DOMAIN-SUFFIX,linearjitp02-playback.astro.com.my
 DOMAIN-SUFFIX,uhd.mywire.org
 DOMAIN-SUFFIX,bein-apac-live.akamaized.net
+IP-CIDR,199.59.0.0/12,no-resolve
