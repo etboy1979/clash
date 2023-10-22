@@ -9,5 +9,5 @@ DOMAIN-SUFFIX,bein-apac-live.akamaized.net
 IP-CIDR,199.59.0.0/12,no-resolve
 IP-CIDR,98.159.0.0/12,no-resolve
 IP-CIDR,108.160.0.0/12,no-resolve
-IP-CIDR,103.252.115.0/24,no-resolve
-IP-CIDR,184.173.136.0/24,no-resolve
+IP-CIDR,103.252.0.0/12,no-resolve
+IP-CIDR,184.173.0.0/12,no-resolve
