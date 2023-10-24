@@ -64,4 +64,6 @@ DOMAIN-SUFFIX,viu.now.com
 DOMAIN-SUFFIX,viu.tv
 ## > TVB iptv
 DOMAIN-SUFFIX,ocsp.verisign.com
+IP-CIDR,1.65.0.0/24,no-resolve
+IP-CIDR,1.65.85.0/12,no-resolve
 
