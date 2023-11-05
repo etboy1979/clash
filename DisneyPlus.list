@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,bam.nr-data.net
 DOMAIN-SUFFIX,braze.com
 DOMAIN-SUFFIX,cdn.optimizely.com
 DOMAIN-SUFFIX,cdn.registerdisney.go.com
-DOMAIN-SUFFIX,cws.conviva.com
+# DOMAIN-SUFFIX,cws.conviva.com
 DOMAIN-SUFFIX,d9.flashtalking.com
 DOMAIN-SUFFIX,disney-plus.net
 DOMAIN-SUFFIX,disney-portal.my.onetrust.com
