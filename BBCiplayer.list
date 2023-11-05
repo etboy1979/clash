@@ -28,3 +28,18 @@ USER-AGENT,ITV_Player*
 DOMAIN,itvpnpmobile-a.akamaihd.net
 DOMAIN-SUFFIX,itv.com
 DOMAIN-SUFFIX,itvstatic.com
+#  BBC
+DOMAIN,aod-dash-uk-live.akamaized.net
+DOMAIN,aod-hls-uk-live.akamaized.net
+DOMAIN,aod-pod-uk-live.akamaized.net
+DOMAIN,as-dash-uk-live.akamaized.net
+DOMAIN,as-hls-uk-live.akamaized.net
+DOMAIN,ve-dash-uk-live.akamaized.net
+DOMAIN,ve-uhd-push-uk-live.akamaized.net
+DOMAIN,vod-dash-uk-live.akamaized.net
+DOMAIN,vod-dash-ww-live.akamaized.net
+DOMAIN,vod-hls-uk-live.akamaized.net
+DOMAIN,vod-sub-uk-live.akamaized.net
+DOMAIN,vod-thumb-uk-live.akamaized.net
+DOMAIN,vod-thumb-ww-live.akamaized.net
+DOMAIN,vs-cmaf-push-uk-live.akamaized.net
