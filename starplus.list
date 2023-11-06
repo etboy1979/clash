@@ -14,5 +14,5 @@ DOMAIN,api.ipify.org
 DOMAIN-SUFFIX,api.ipify.org
 IP-CIDR,151.101.0.0/12,no-resolve
 IP-CIDR,104.99.0.0/12,no-resolve
-IP-CIDR,23.49.0.0/12,no-resolve
+# IP-CIDR,23.49.0.0/12,no-resolve
 IP-CIDR,146.75.0.0/12,no-resolve
