@@ -10,3 +10,4 @@ DOMAIN,prod-ripcut-delivery.disney-plus.net
 DOMAIN,star.connections.edge.bamgrid.com
 DOMAIN-SUFFIX,starplus.com
 DOMAIN-SUFFIX,media.starott.com
+IP-CIDR,151.101.0.0/12,no-resolve
