@@ -1,4 +1,3 @@
-DOMAIN-SUFFIX,bein-apac-live.akamaized.net
 DOMAIN,bein-apac-live.akamaized.net
-IP-CIDR,23.220.0.0/12,no-resolve
-IP-CIDR,23.213.0.0/12,no-resolve
+SRC-IP-CIDR,23.220.0.0/12,no-resolve
+SRC-IP-CIDR,23.213.0.0/12,no-resolve
