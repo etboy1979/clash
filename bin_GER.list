@@ -1,3 +1,4 @@
 DOMAIN-SUFFIX,akamaized.net
 IP-CIDR,184.173.0.0/12,no-resolve
 IP-CIDR,184.25.0.0/12,no-resolve
+IP-CIDR,31.13.0.0/12,no-resolve
