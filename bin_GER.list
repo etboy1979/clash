@@ -1,3 +1,2 @@
-DOMAIN,bein-apac-live.akamaized.net
-SRC-IP-CIDR,184.173.0.0/12,no-resolve
-SRC-IP-CIDR,184.25.0.0/12,no-resolve
+IP-CIDR,184.173.0.0/12,no-resolve
+IP-CIDR,184.25.0.0/12,no-resolve
