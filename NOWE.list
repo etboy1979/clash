@@ -63,6 +63,13 @@ DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,viu.now.com
 DOMAIN-SUFFIX,viu.tv
 ## > TVB iptv
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,kozow.com
+DOMAIN-SUFFIX,hoy.tv
+DOMAIN-KEYWORD,rthktv31
+DOMAIN-KEYWORD,rthktv32
+DOMAIN-KEYWORD,rthklive1
+DOMAIN-KEYWORD,rthklive2
 DOMAIN-SUFFIX,ocsp.verisign.com
 IP-CIDR,1.65.0.0/24,no-resolve
 IP-CIDR,1.65.85.0/12,no-resolve
