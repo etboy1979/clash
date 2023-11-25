@@ -16,6 +16,7 @@ IP-CIDR,154.194.0.0/12,no-resolve
 IP-CIDR,212.119.0.0/12,no-resolve
 IP-CIDR,45.65.0.0/12,no-resolve
 IP-CIDR,194.87.0.0/12,no-resolve
+
 # lightiptv
 DOMAIN-SUFFIX,pp.ru
 DOMAIN-SUFFIX,satrip.net.ru
