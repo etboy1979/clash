@@ -16,6 +16,18 @@ IP-CIDR,154.194.0.0/12,no-resolve
 IP-CIDR,212.119.0.0/12,no-resolve
 IP-CIDR,45.65.0.0/12,no-resolve
 IP-CIDR,194.87.0.0/12,no-resolve
+# lightiptv
+DOMAIN-SUFFIX,pp.ru
+DOMAIN-SUFFIX,satrip.net.ru
+DOMAIN-KEYWORD,light.ga
+DOMAIN-KEYWORD,light.ml
+DOMAIN-KEYWORD,light.cf
+DOMAIN-KEYWORD,light.gq
+DOMAIN-KEYWORD,light.tk
+DOMAIN-KEYWORD,s3.fr
+DOMAIN-KEYWORD,s2.fr
+IP-CIDR,104.21.234.0/24,no-resolve
+IP-CIDR,104.21.235.0/24,no-resolve
 
 
 
