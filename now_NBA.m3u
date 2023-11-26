@@ -2,7 +2,7 @@
 #tvbus://4DMu9APeroJwA52FwsLQNJmQNGWmd8yLcrdigod4TFzhNfdsJY
 #EXTINF:-1,Now Sports NBA
 #tvbus://37Hx8M5R9awxEzZPe83FRrSbXZxaovquNtgvgWBKEFrjGjqc8k
-#EXTINF:-1,咪咕
-https://livednow.com/migu/list?id=1644748356&token=nlps04CCE95B715D2F8D1D36
-#EXTINF:-1,TNTu
-https://prod-gb-live.akamai.prod-live.h264.io/primary/3/8224476fe2b74be0892f71983a06b6df/hdntl=exp=1700984752~acl=/primary/3/8224476fe2b74be0892f71983a06b6df/*~data=hdntl~hmac=b207391124e66f25ddf1643ebcb5f1eff1671aba4c6cfcc620ecdef7da5341c1/start/1700930700/index.mpd?aws.manifestfilter=audio_codec:EC-3;video_codec:h265;video_height:1-2160;video_dynamic_range:hdr10;audio_language:eng&hdnts=exp=1700984752~acl=/primary/3/8224476fe2b74be0892f71983a06b6df/start/1700930700/index.mpd%3Faws.manifestfilter%3Daudio_codec%3AEC-3%3Bvideo_codec%3Ah265%3Bvideo_height%3A1-2160%3Bvideo_dynamic_range%3Ahdr10%3Baudio_language%3Aeng*~hmac=e9ea95546a9739a1d9a771221c27ac3036ff5220e6ed24185db1ae252130bd5c
+#EXTINF:-1,mbc1
+https://playlist.fubo.tv/v4/master.m3u8?alternate-feed=0&callsign=NBCSC4K&cookie_supported_platform=0&device=ALL&hdnts=ip%3D178.209.68.49~st%3D1700977164~exp%3D1701063564~acl%3D%2F%2A~data%3D1701063564~hmac%3D45db09b3fac1d65fd9b0ae15714e6a6b4acd2d9ee12984008433112749d2adda&is_azure=0&is_kvtdb=0&userHash=42&watchToken=eyJhbGciOiJIUzI1NiIsInRva2VuVHlwZSI6IlVzYUJhc2VXYXRjaFRva2VuIiwidHlwIjoiSldUIn0.eyJ3YXRjaFRva2VuIjp7ImNhbGxTaWduIjoiTkJDU0M0SyIsImRldmljZSI6IkFMTCIsImJhbmR3aWR0aCI6Ik1BU1RFUiIsImNvdW50cnkiOiJVU0EiLCJ1c2VySWQiOiI2NTUxOGNjYTcyZWFjMzAwMDE3MzhjYzEiLCJyZXF1ZXN0VHlwZSI6ImxpdmUiLCJyZWdpb24iOiJ3ZXN0In0sImhvbWVaaXAiOiI2MDEzMSIsImdlb1ppcCI6Ijc1MjE3In0.UQW0EE8XdoJ-2OGnYdtOA68z1mZYSwfo7_NeFEhosL4
+#EXTINF:-1,mbc
+https://playlist.fubo.tv/master.mpd?alternate-feed=0&callsign=FUBOSNK&cookie_supported_platform=0&device=ALL&hdnts=ip%3D185.196.61.13~st%3D1701013907~exp%3D1701100307~acl%3D%2F%2A~data%3D1701100307~hmac%3D6b3cac5d1d11d3858a5517e223eda7143c6f70484b3437ba6c81f2cb66978eb0&is_azure=0&is_kvtdb=0&userHash=35&watchToken=eyJhbGciOiJIUzI1NiIsInRva2VuVHlwZSI6IkJhc2VXYXRjaFRva2VuIiwidHlwIjoiSldUIn0.eyJjYWxsU2lnbiI6IkZVQk9TTksiLCJkZXZpY2UiOiJBTEwiLCJiYW5kd2lkdGgiOiJEQVNIIiwiY291bnRyeSI6IkNBTiIsInVzZXJJZCI6IjYyZWU3Mjc4MTc2NjVhMDAwMWQ5MmY4OCIsInJlcXVlc3RUeXBlIjoibGl2ZSIsInJlZ2lvbiI6Indlc3QifQ.butB7TucpKfIzOpOtMMNmUz3gYFNNsO0CbGaUBRi5MQ
