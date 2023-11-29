@@ -1,1 +1,13 @@
+#EXTM3U
+#EXTINF:-1,Canal+ UHD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3 .clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys": [ { "kty": "oct", "k": "5V6o+KvZ9L4EX/aD0oSmQA", "kid": "S0yzTc2RQHyDSxGU0pSTTQ" }, { "kty": "oct", "k": "51eJmkOJQLavI/M9r730rA", "kid": "2gQNNWN5SIWDMRX3U5k68A" }, { "kty": "oct", "k": "x84faB2/GVajEljBrQrTfA", "kid": "24ir299XTFqmq6VUSbjSBQ" }, { "kty": "oct", "k": "dnbUKZ6w5aQbmwBYGzLrmQ", "kid": "n9JyzHobSwCTKZS/yfNEEA" }, { "kty": "oct", "k": "xKGXeVvN1aXo6b1KS6heYg", "kid": "eJV6DWgeS9eqZk+90S1QPA" } ], "type": "temporary" }
+https://dsh-m001-live-aka-canalplus.akamaized.net/live/disk/canalplus-4k/dash-uhddvr/canalplus-4k.mpd
 
+#EXTINF:-1 tvg-id="EVENEMENT SPORT 4K UHD" tvg-name="EVENEMENT SPORT 4K UHD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/thumb.canalplus.pro/bddpe/unsafe/filters:format(png):anamorphosis(640,480)/74021723", EVENEMENT SPORT 4K UHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"JYfHzCa0fb2XRQ/Tvtvemw","kid":"03o4uKXtS92jLWhNa3Xj6Q"},{"kty":"oct","k":"lhoUk+dwMhuXR34oqV2tSQ","kid":"rzmUV14pSgGKSRNV4I0e0A"},{"kty":"oct","k":"uyNDaYkC8bhEJ6KS5ENyCA","kid":"Tjar2s0iSyiW9p2JwasuMw"},{"kty":"oct","k":"8UItxro+9kxcxSWj7WcF6Q","kid":"dsqUuGpTRJ+cySBGkWgwOA"},{"kty":"oct","k":"NmZsPiGON26Cldz9jkqWzw","kid":"gPaJ56YRQVWrKu3G6Tb4Jg"}],"type":"temporary"}
+https://dsh-m001-live-aka-canalplus.akamaized.net/live/disk/evenementuhd-4k/dash-uhddvr/evenementuhd-4k.mpd
