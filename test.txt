@@ -2759,3 +2759,27 @@ CHC家庭影院,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jbtygqC
 金鹰卡通,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225730/2/index.m3u8
 军事评论,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225757/2/index.m3u8
 中华美食,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225924/2/index.m3u8
+
+🌺🌺广东,#genre#
+广东珠江超清,http://ct.whosayssowhat.top:4022/udp/239.77.0.114:5146
+广东经济超清,http://ct.whosayssowhat.top:4022/udp/239.77.0.167:5146
+广东体育超清,http://ct.whosayssowhat.top:4022/udp/239.77.0.168:5146
+深圳都市超清,http://ct.whosayssowhat.top:4022/udp/239.77.1.124:5146
+深圳电视剧超清,http://ct.whosayssowhat.top:4022/udp/239.77.1.125:5146
+深圳公共超清,http://ct.whosayssowhat.top:4022/udp/239.77.1.126:5146
+深圳体育超清,http://ct.whosayssowhat.top:4022/udp/239.77.1.128:5146
+
+广东卫视,http://ct.whosayssowhat.top:4022/udp/239.77.1.19:5146
+广东卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.84:5146
+广东珠江,http://ct.whosayssowhat.top:4022/udp/239.77.0.1:5146
+广东经济,http://ct.whosayssowhat.top:4022/udp/239.77.0.85:5146
+广东体育,http://ct.whosayssowhat.top:4022/udp/239.77.0.112:5146
+南方卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.215:5146
+南方购物,http://ct.whosayssowhat.top:4022/udp/239.77.0.19:5146
+广东新闻,http://ct.whosayssowhat.top:4022/udp/239.77.0.173:5146
+广东影视,http://ct.whosayssowhat.top:4022/udp/239.77.0.217:5146
+广东公共,http://ct.whosayssowhat.top:4022/udp/239.77.0.225:5146
+广东少儿,http://ct.whosayssowhat.top:4022/udp/239.77.0.250:5146
+嘉佳卡通,http://ct.whosayssowhat.top:4022/udp/239.77.0.179:5146
+广东综艺UHD,http://ct.whosayssowhat.top:4022/udp/239.77.0.244:5146
+广东综艺,http://ct.whosayssowhat.top:4022/udp/239.77.0.232:5146
