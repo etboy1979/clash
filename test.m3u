@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 xui-id="1" tvg-id="" tvg-name="直播1台 EVT1" tvg-logo="" group-title="Test",直播1台 EVT1
+https://tvb.kozow.com:9998/U8ThJgamLHmv.mpd?code=EVT1
+--key e8ca7903e25450d85cb32b3057948522:d5db5c03608f5f6c8a382c6abcb829e4
