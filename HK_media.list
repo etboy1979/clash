@@ -40,10 +40,10 @@ DOMAIN-SUFFIX,umami.hkanimal.com
 DOMAIN-KEYWORD,hkanimal
 DOMAIN-KEYWORD,hkdtmb
 DOMAIN-KEYWORD,hkanime
-DOMAIN-SUFFIX,error.hklive.tv
-DOMAIN-SUFFIX,ye23.win
-IP-CIDR,162.159.200.0/24,no-resolve
-IP-CIDR,47.74.175.0/24,no-resolve
+# DOMAIN-SUFFIX,error.hklive.tv
+# DOMAIN-SUFFIX,ye23.win
+# IP-CIDR,162.159.200.0/24,no-resolve
+# IP-CIDR,47.74.175.0/24,no-resolve
 
 # NAME: PikPak
 # AUTHOR: tugepaopao
