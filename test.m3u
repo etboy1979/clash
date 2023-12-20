@@ -3,3 +3,5 @@
 video://https://yeslivetv.com/channels/sportcast-golf/
 #EXTINF:-1,tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.112114.xyz/logo/美亚电影台.png" group-title="港X直播港澳",美亚电影台
 video://http://everydaytv.top/play-2-16-0.html
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="某GTV港澳",TVBSX剧台
+video://https://www.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
