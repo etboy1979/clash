@@ -1,0 +1,5 @@
+#google one vpn
+DOMAIN-SUFFIX,cloud.cupronickel.goog
+DOMAIN-KEYWORD,googleapis
+# 如果仅用安卓设备的话，以上两个就够了,苹果设备需要加上下面这个
+DOMAIN-KEYWORD,g-tun
