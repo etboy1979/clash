@@ -57,6 +57,15 @@
       "searchable": 0,
       "type": 3
     }
+    {
+      "api": "https://tang.serv00.net/power/ub1818?token=e98847f4",
+      "changeable": 0,
+      "key":  "T4-安博",
+      "name": "安博(T4)",
+      "quickSearch": 1,
+      "searchable": 1,
+      "type": 3
+    }    
   ],
   "doh": [
     {
@@ -226,15 +235,15 @@
     }
   ],
     {
-            "key": "T4-安博",
-            "name": "安博(T4)",
-            "type": 4,
-            "api": "https://tang.serv00.net/power/ub1818?token=e98847f4",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": true
+      "key": "T4-安博",
+      "name": "安博(T4)",
+      "type": 4,
+      "api": "https://tang.serv00.net/power/ub1818?token=e98847f4",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": true
     },
   "lives": [
     {
