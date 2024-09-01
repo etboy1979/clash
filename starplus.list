@@ -11,6 +11,10 @@ DOMAIN,star.connections.edge.bamgrid.com
 DOMAIN-SUFFIX,starplus.com
 DOMAIN-SUFFIX,media.starott.com
 DOMAIN,api.ipify.org
+DOMAIN,cws.conviva.com
+DOMAIN,media.dssott.com
+DOMAIN,global.dns.qwilted-cds.cqloud.com
+
 DOMAIN-SUFFIX,api.ipify.org
 IP-CIDR,151.101.0.0/12,no-resolve
 IP-CIDR,104.99.0.0/12,no-resolve
