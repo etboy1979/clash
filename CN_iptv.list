@@ -1,3 +1,14 @@
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,dnsany.com
 DOMAIN-SUFFIX,*.ottdns.com
+DOMAIN-SUFFIX,chinamobile.com
+DOMAIN-SUFFIX,mobaibox.com
+DOMAIN-SUFFIX,gitv.tv
+DOMAIN-SUFFIX,cctv.cn
+DOMAIN-SUFFIX,yangshipin.cn
+DOMAIN-SUFFIX,gcable.cn,DIRECT
+IP-CIDR,183.206.0.0/15,DIRECT,no-resolve
+IP-CIDR,223.5.5.5/32,DIRECT,no-resolve
+IP-CIDR,27.36.0.0/14,DIRECT,no-resolve
+IP-CIDR,183.238.66.0/24,DIRECT,no-resolve
+
