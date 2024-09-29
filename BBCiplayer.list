@@ -7,6 +7,7 @@ DOMAIN,aod-dash-uk-live.akamaized.net
 DOMAIN,aod-hls-uk-live.akamaized.net
 DOMAIN,vod-dash-uk-live.akamaized.net
 DOMAIN,vod-thumb-uk-live.akamaized.net
+DOMAIN,linear408-gb-dash1-prd-ak.cdn.skycdp.com
 DOMAIN-SUFFIX,bbc.co
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbc.com
@@ -16,7 +17,8 @@ DOMAIN-SUFFIX,bbci.co
 DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-SUFFIX,bidi.net.uk
 DOMAIN-SUFFIX,live.bbctvapps.co.uk
-IP-CIDR,212.58.0.0/12,no-resolve
+DOMAIN-SUFFIX,skycdp.com
+#IP-CIDR,212.58.0.0/12,no-resolve
 # 内容：BBC
 # 数量：3条
 DOMAIN-KEYWORD,uk-live
