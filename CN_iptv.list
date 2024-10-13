@@ -1,3 +1,4 @@
+## CN_iptv
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,dnsany.com
 DOMAIN-SUFFIX,*.ottdns.com
@@ -6,9 +7,18 @@ DOMAIN-SUFFIX,mobaibox.com
 DOMAIN-SUFFIX,gitv.tv
 DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,yangshipin.cn
-DOMAIN-SUFFIX,gcable.cn,DIRECT
-IP-CIDR,183.206.0.0/15,DIRECT,no-resolve
-IP-CIDR,223.5.5.5/32,DIRECT,no-resolve
-IP-CIDR,27.36.0.0/14,DIRECT,no-resolve
-IP-CIDR,183.238.66.0/24,DIRECT,no-resolve
+DOMAIN-SUFFIX,gcable.cn
+## YSP
+DOMAIN-SUFFIX,cctv.cn
+DOMAIN-SUFFIX,yangshipin.cn
+
+## ITV
+DOMAIN-SUFFIX,dnsany.com
+DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,chinamobile.com
+IP-CIDR,183.206.0.0/15,no-resolve
+IP-CIDR,223.5.5.5/32,no-resolve
+IP-CIDR,27.36.0.0/14,no-resolve
+IP-CIDR,183.238.66.0/24,no-resolve
+IP-CIDR,183.207.0.0/16,no-resolve
 
