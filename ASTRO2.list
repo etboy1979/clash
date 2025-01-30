@@ -3,8 +3,8 @@ DOMAIN,linearjitp-playback.astro.com.my
 # DOMAIN,uhd.mywire.org
 DOMAIN-KEYWORD,astro.com
 DOMAIN-KEYWORD,astro
-DOMAIN-KEYWORD,starhubgo.com
-DOMAIN-KEYWORD,starhubgo
+# DOMAIN-KEYWORD,starhubgo.com
+# DOMAIN-KEYWORD,starhubgo
 DOMAIN-KEYWORD,mywire
 DOMAIN-SUFFIX,linearjitp-playback.astro.com.my
 # DOMAIN-SUFFIX,uhd.mywire.org
