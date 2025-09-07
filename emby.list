@@ -20,5 +20,7 @@ DOMAIN-SUFFIX,tagemby.embylianmeng.com
 DOMAIN-SUFFIX,emby.m78tv.com
 DOMAIN-SUFFIX,adult.m78tv.com
 DOMAIN-KEYWORD,embylianmeng
+DOMAIN-KEYWORD,m78tv
 DOMAIN-KEYWORD,tagemby
 PROCESS-NAME,pornemby
+PROCESS-NAME,m78tv
