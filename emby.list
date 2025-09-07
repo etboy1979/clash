@@ -17,9 +17,8 @@ DOMAIN-SUFFIX,register.embylianmeng.com
 DOMAIN-SUFFIX,embylianmeng.com
 DOMAIN-SUFFIX,tec.tagemby.com
 OMAIN-SUFFIX,tagemby.embylianmeng.com
+OMAIN-SUFFIX,emby.m78tv.com
+OMAIN-SUFFIX,adult.m78tv.com
 DOMAIN-KEYWORD,embylianmeng
 DOMAIN-KEYWORD,tagemby
-IP-CIDR,31.25.0.0/12,no-resolve
-IP-CIDR,31.25.89.0/24,no-resolve
-DOMAIN-SUFFIX,31.25.89.188
 PROCESS-NAME,pornemby
