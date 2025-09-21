@@ -19,5 +19,5 @@ DOMAIN-KEYWORD,tagemby
 PROCESS-NAME,pornemby
 PROCESS-NAME,m78tv
 IP-CIDR,103.193.173.0/24,no-resolve
-IP-CIDR,103.193.0.0/32,no-resolve
+IP-CIDR,103.193.0.0/16,no-resolve
 IP-CIDR,103.193.173.254/32,no-resolve
