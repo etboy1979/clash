@@ -5,8 +5,8 @@
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 9
 # TOTAL: 10
-DOMAIN,fhnfile.oss-cn-shenzhen.aliyuncs.com
-DOMAIN,proapi.115.com
+DOMAIN-SUFFIX,fhnfile.oss-cn-shenzhen.aliyuncs.com
+DOMAIN-SUFFIX,proapi.115.com
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,115cdn.com
 DOMAIN-SUFFIX,115cdn.net
@@ -16,3 +16,4 @@ DOMAIN-SUFFIX,116cd.com
 DOMAIN-SUFFIX,116cd.net
 DOMAIN-SUFFIX,anxia.com
 DOMAIN-SUFFIX,sq.cc
+DOMAIN-KEYWORD,115.com
